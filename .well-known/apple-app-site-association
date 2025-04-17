@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["3TMFGC5LJP.com.app.First-Light.Clip"],
+        "paths": ["/light*"]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["3TMFGC5LJP.com.app.First-Light.Clip"]
+  }
+}
