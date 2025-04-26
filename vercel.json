@@ -9,5 +9,47 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/light/sangha",
+      "destination": "/light?id=DA81CF1B-B0D5-42E9-9E62-5A6517150270"
+    },
+    {
+      "source": "/light/altitude",
+      "destination": "/light?id=B1338DB9-E420-4B53-A850-19AB0B0CA0BB"
+    },
+    {
+      "source": "/light/votive",
+      "destination": "/light?id=A686BE53-B92F-4C5E-9C35-A89CBDAED22D"
+    },
+    {
+      "source": "/light/mu",
+      "destination": "/light?id=F7FFE5FD-8923-45BD-B376-30D7442A2FEF"
+    },
+    {
+      "source": "/light/embers",
+      "destination": "/light?id=C4E387DC-CBA5-4C3A-A626-EC401B06F3A7"
+    },
+    {
+      "source": "/light/elation",
+      "destination": "/light?id=B8AA4A54-281C-4577-9D81-4A2F75FD5422"
+    },
+    {
+      "source": "/light/discipline",
+      "destination": "/light?id=C57BE355-7DAC-48C3-918D-38C971B52BD6"
+    },
+    {
+      "source": "/light/gladness",
+      "destination": "/light?id=255C66BB-37F0-4102-A345-8511A4FC9E61"
+    },
+    {
+      "source": "/light/joy",
+      "destination": "/light?id=12EEA1E1-0EF3-493E-A85E-D295FB0552F8"
+    },
+    {
+      "source": "/light/perspective",
+      "destination": "/light?id=1CE23D8A-5BCA-48BE-8CE7-617F2DB7888F"
+    }
   ]
 }
